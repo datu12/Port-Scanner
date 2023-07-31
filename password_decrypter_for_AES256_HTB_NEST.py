@@ -1,3 +1,11 @@
+#Note on this script for C.Smith's password use the
+#    pass_phrase = N3st22
+#    salt_value = 88552299
+#   password_iterations =  2
+#   init_vector =  464R5DFA5DL6LE28
+#  Follow the conventions below. As those information are for the priv escalation password
+#
+
 from Crypto.Cipher import AES
 from Crypto.Protocol.KDF import PBKDF2
 from Crypto.Random import get_random_bytes
