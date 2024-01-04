@@ -1,3 +1,1 @@
-----------------------------------
-This repo is consisting of random projects that I am designing and working on to
-
+This REPO consist of random projects that I have written and thought of it as usefull for my next engagement
